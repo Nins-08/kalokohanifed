@@ -1,0 +1,12 @@
+Process of MARS:
+after registration
+create user access
+
+=======
+
+SAles 1 for dashboard
+Settelement Invoice = Invoice Details 1
+Tickets = Data table
+pag nag click ng ticket - punta sa Invoice details 1 no picture
+
+Settlement - Invoice List 1 no picture , pag nag click ng complete punta sa Invoice details 2 Pag click pa ng view details Data table naman sya
